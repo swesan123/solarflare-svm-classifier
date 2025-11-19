@@ -1,0 +1,10 @@
+name: assignment2
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pandas
